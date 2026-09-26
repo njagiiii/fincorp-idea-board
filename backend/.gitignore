@@ -1,0 +1,17 @@
+# Environments
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Flask
+instance/
+.webassets-cache
